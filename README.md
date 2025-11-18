@@ -1,5 +1,3 @@
----
-
 # CodeSensei
 
 **Automated Code Review Assistant – Work in Progress**
