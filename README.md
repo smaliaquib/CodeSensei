@@ -14,7 +14,7 @@ WORK in PROGRESS....
 * Integrates with GitHub/GitLab pull requests
 * AI-powered explanations for suggested changes
 
-![Architecture Overview](/images/intro.png)
+![Architecture Overview](./images/intro.png)
 
 ---
 
